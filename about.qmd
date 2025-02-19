@@ -1,0 +1,25 @@
+---
+title: "Welcome to my homepage!"
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+*Image here*
+:::
+
+::: {.g-col-8}
+I am a Research Assistant at the [Chair of Empirical Economics](https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/) at Ruhr-University Bochum, with a strong interest in Spatial and Urban Economics. My research focuses on microeconometric analyses, using causal evaluation strategies to explore how spatial factors shape economic outcomes and provide empirical insights that can inform evidence-based decision-making.
+
+My current work covers several research areas, including:
+
+- How the spatial distribution of early childcare affects inner-regional employment patterns
+- The potentially competition-distorting effects of regional firm subsidies
+- How reducing information barriers affects parental school track choices in primary education
+
+If you're interested in my research or have any questions, feel free to reach out!
+:::
+
+:::
+
+

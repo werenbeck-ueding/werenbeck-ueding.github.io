@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Sven Werenbeck-Ueding"
+  search: false
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: assets/cv.pdf
+        text: CV
+    right: 
+      - icon: envelope
+        href: mailto:sven.werenbeck-ueding@rub.de
+      - icon: github
+        href: https://github.com/Solaire-patch
+      - icon: linkedin
+        href: https://linkedin.com/in/sven-werenbeck-ueding
+  page-footer: 
+    left: "Copyright 2025, Sven Werenbeck-Ueding"
+    right: "This website was created using [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    #toc: true
+    fontsize: 16pt
+
+
+

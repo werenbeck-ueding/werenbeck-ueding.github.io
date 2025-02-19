@@ -1,0 +1,122 @@
+---
+author: "Sven Werenbeck-Ueding"
+format: 
+  pdf:
+    fontsize: 10pt
+    margin-left: 2.5cm
+    margin-right: 2.5cm
+    margin-top: 2.5cm
+    margin-bottom: 2cm
+    linestretch: 1.5
+    include-in-header:
+      text: |
+        %\usepackage[paperheight=297mm, paperwidth=210mm,% Set the height and width of the paper
+        %  includehead,% See below for an explanation
+        %  nomarginpar,% We don't want any margin paragraphs
+        %  textwidth=16cm,
+        %  headheight=16pt % Set \headheight to 16pt to avoid fancyhr warnings
+        %]{geometry}
+        \newlength{\datecolumn}
+        \setlength{\datecolumn}{3cm} % defines length for first column in table
+        \newlength{\othercolumn}
+        \setlength{\othercolumn}{13cm}
+        \usepackage{fancyhdr}
+        %\setlength{\headheight}{2.5cm}
+---
+
+\pagestyle{fancy}
+\fancyhead{}
+
+\fancyhead[c]{
+\Large Sven Werenbeck-Ueding\hfill Curriculum Vitae
+}
+
+\fancyfoot[r]{
+Last updated: \today
+}
+
+Ruhr-University Bochum\newline
+Faculty of Management & Economics\newline
+Universitätsstraße 150\newline
+44801 Bochum, Germany
+
+Mail: \href{mailto:sven.werenbeck-ueding@ruhr-uni-bochum.de}{sven.werenbeck-ueding@ruhr-uni-bochum.de}\newline
+Tel.: +49 (0) 234 32-27523\newline
+Web:
+
+
+## Resarch Interests
+
+\begin{tabular}{p{\datecolumn}p{\othercolumn}}
+   & \textbf{Applied Microeconometrics, Spatial Economics, Education Economics}\\
+\end{tabular}
+
+
+## Employment
+
+<!--Positions & Affiliations-->
+
+\begin{tabular}{p{\datecolumn}|p{\othercolumn}}
+  Since 10/2021 & \textit{Research Assistant}, Chair of Empirical Economics, Ruhr-University Bochum\\
+  11/2021 -- 12/2024 & \textit{Product Owner (freelance)}\\
+  01/2021 -- 09/2021 & \textit{Student Assistant}, adesso SE, Dortmund\\
+  10/2019 -- 06/2020 & \textit{Student Assistant}, Chair of Statistics / Econometrics, Ruhr-University Bochum\\
+  02/2018 -- 09/2018 & \textit{Voluntary Military Service}\\
+  10/2015 -- 03/2016 & \textit{Student Assistant}, GFKL Financial Services AG, Essen 
+\end{tabular}
+
+
+## Education
+
+\begin{tabular}{p{\datecolumn}|p{\othercolumn}}
+  \textit{Ongoing} & \textit{PhD} in Management \& Economics, Ruhr-University Bochum\\
+  10/2018 -- 10/2021 & \textit{Master of Science} in Management \& Economics, Ruhr-University Bochum\\
+  10/2014 -- 09/2017 & \textit{Bachelor of Science} in Management \& Economics, Ruhr-University Bochum\\
+  %08/2006 -- 06/2014 & \textit{Abitur}, Annette-von-Droste-Hülfshoff Gymnasium Dülmen
+\end{tabular}
+
+
+## Research
+
+\textbf{Work in Progress:}
+
+\textit{``Lost in Translation. Information Frictions in School Track Choice -- Evidence from a Randomized Field Experiment"} (with Friederike Hertweck, Pia Schilling, and Moritz Welz). AER Registration: AEARCTR-0011821.
+
+\textit{``Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power"} (with Kevin L. Berlet and Mirko Titze)
+
+\textit{``Local Childcare Access and the Distribution of Employment"}
+
+\textit{``Heterogeneous Trends in Apartment Rental Prices"} (with Maike Metz-Peeters)
+
+
+## Conferences & Presentations
+
+\begin{tabular}{p{\datecolumn}|p{\othercolumn}}
+  2022 & 61st ERSA Conference
+\end{tabular}
+
+
+## Teaching Experience
+
+\begin{tabular}{p{\datecolumn}|p{\othercolumn}}
+  2024 & Seminars "Empirical Economics" (Bachelor) and "Economics of Migration" (Master) and Lecture "Data Analysis Using R", Ruhr-University Bochum\\
+  2023 & Tutorial "Labor Economics" (Master) and Lecture "Data Analysis Using R" (Master), Ruhr-University Bochum\\
+  2021 -- 2022 & Tutorials "Applied Empirical Economics" (Bachelor) and "Labor Economics" (Master), Ruhr-University Bochum\\
+  2019 -- 2020 & Tutorial "Statistics II" (Bachelor), Ruhr-University Bochum
+\end{tabular}
+
+
+## Languages
+
+\begin{tabular}{p{\datecolumn}p{\othercolumn}}
+   & German (native), English (fluent)
+\end{tabular}
+
+
+## Technical Skills
+
+\begin{tabular}{p{\datecolumn}p{\othercolumn}}
+   & \textbf{Statistical Software:} R (proficient)\\%, Python (basic), Stata (basic)\\
+   & \textbf{Typewriting:} Quarto, \LaTeX\\
+   & \textbf{Other:} Git
+\end{tabular}
