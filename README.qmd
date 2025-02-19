@@ -1,9 +1,9 @@
 ---
-title: "Repository for Personal Website"
+title: "GitHub Repository for Personal Website"
 author: Sven Werenbeck-Ueding
 date: today
 date-format: long
 format: gfm
 ---
 
-*ToDo*
+See the [Quarto documentation](https://quarto.org/docs/websites/)
