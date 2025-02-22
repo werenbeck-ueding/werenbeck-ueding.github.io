@@ -42,7 +42,7 @@ Universitätsstraße 150\newline
 
 Mail: \href{mailto:sven.werenbeck-ueding@ruhr-uni-bochum.de}{sven.werenbeck-ueding@ruhr-uni-bochum.de}\newline
 Tel.: +49 (0) 234 32-27523\newline
-Web:
+Web: \href{https://werenbeck-ueding.github.io/}{https://werenbeck-ueding.github.io/}
 
 
 ## Resarch Interests
