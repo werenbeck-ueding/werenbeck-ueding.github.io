@@ -6,4 +6,4 @@ date-format: long
 format: gfm
 ---
 
-See the [Quarto documentation](https://quarto.org/docs/websites/)
+See the [Quarto documentation](https://quarto.org/docs/websites/) for details on implementation

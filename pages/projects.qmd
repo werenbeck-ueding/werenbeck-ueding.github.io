@@ -1,8 +1,6 @@
 ---
-title: "Research"
+title: "Current Projects"
 ---
-
-## Work in Progress
 
 **Lost in Translation. Information Frictions in School Track Choice -- Evidence from a Randomized Field Experiment** with [Friederike Hertweck](https://sites.google.com/view/friederikehertweck/){target="_blank"}, [Pia Schilling](https://www.piaschilling.com/home){target="_blank"}, and [Moritz Welz](https://www2.wiwi.rub.de/en/persons/moritz-welz-2/){target="_blank"}
 
@@ -16,22 +14,22 @@ title: "Research"
 
 **Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power** with [Kevin L. Berlet](https://www2.wiwi.rub.de/en/persons/kevin-berlet/){target="_blank"} and [Mirko Titze](https://www.iwh-halle.de/ueber-das-iwh/team/detail/mirko-titze){target="_blank"}
 
-<details>
-  <summary>Abstract</summary>
-  <p>
-    WIP
-  </p>
-</details>
+<!-- <details> -->
+<!--   <summary>Abstract</summary> -->
+<!--   <p> -->
+<!--     WIP -->
+<!--   </p> -->
+<!-- </details> -->
 
 
 **Local Childcare Access and the Distribution of Employment**
 
-<details>
-  <summary>Abstract</summary>
-  <p>
-    WIP
-  </p>
-</details>
+<!-- <details> -->
+<!--   <summary>Abstract</summary> -->
+<!--   <p> -->
+<!--     WIP -->
+<!--   </p> -->
+<!-- </details> -->
 
 
 **Heterogeneous Trends in Apartment Rental Prices** with [Maike Metz-Peeters](https://www2.wiwi.rub.de/en/persons/maike-metz-peeters/){target="_blank"}
@@ -39,6 +37,6 @@ title: "Research"
 <details>
   <summary>Abstract</summary>
   <p>
-    We introduce a novel, non-parametric method for estimating house price indices that captures heterogenous price developments and operates independently of strict functional form assumptions. Utilizing the potential outcomes framework, our approach employs causal forests to effectively address changes in the composition of available housing units while mitigating the curse of dimensionality inherent in traditional matching estimators. By directly incorporating geographical coordinates into the model, the algorithm autonomously determines the adaptive spatial neighborhood for each observation, thus avoiding the imposition of fixed spatial boundaries. This flexibility makes the method particularly well-suited for densely populated areas and enables the investigation of complex heterogeneity in house price developments. We demonstrate the utility of this approach through an application to apartment rental prices in six major German cities before and during the COVID-19 pandemic, illustrating how it uncovers nuanced trends in rental price dynamics during a period of significant market change.
+    We introduce a novel, non-parametric method for estimating house price indices that captures heterogeneous price developments and operates independently of strict functional form assumptions. Utilizing the potential outcomes framework, our approach employs causal forests to effectively address changes in the composition of available housing units while mitigating the curse of dimensionality inherent in traditional matching estimators. By directly incorporating geographical coordinates into the model, the algorithm autonomously determines the adaptive spatial neighborhood for each observation, thus avoiding the imposition of fixed spatial boundaries. This flexibility makes the method particularly well-suited for densely populated areas and enables the investigation of complex heterogeneity in house price developments. We demonstrate the utility of this approach through an application to apartment rental prices in six major German cities before and during the COVID-19 pandemic, illustrating how it uncovers nuanced trends in rental price dynamics during a period of significant market change.
   </p>
 </details>

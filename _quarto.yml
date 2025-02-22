@@ -8,14 +8,18 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: research.qmd
-        text: Research
+      - text: Research
+        menu:
+          - href: pages/projects.qmd
+            text: Current Projects
+          - href: pages/publications.qmd
+            text: Publications & Working Papers
       - href: assets/cv.pdf
         text: CV
         target: "_blank"
     right: 
       - icon: envelope
-        href: mailto:sven.werenbeck-ueding@rub.de
+        href: mailto:sven.werenbeck-ueding@ruhr-uni-bochum.de
       - icon: github
         href: https://github.com/werenbeck-ueding
       - icon: linkedin

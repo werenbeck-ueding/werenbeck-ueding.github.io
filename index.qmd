@@ -11,7 +11,7 @@ title: "Welcome to my homepage!"
 :::
 
 ::: {.g-col-8}
-I am a Research Assistant at the [Chair of Empirical Economics](https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/){target="_blank"} at Ruhr-University Bochum, with a strong interest in Spatial and Urban Economics. My research focuses on microeconometric analyses, using causal evaluation strategies to explore how spatial factors shape economic outcomes and provide empirical insights that can inform evidence-based decision-making.
+I am a Research Assistant at the [Chair of Empirical Economics](https://www2.wiwi.rub.de/en/chairs/empirische-wirtschaftsforschung-en/){target="_blank"} at Ruhr-University Bochum, with a strong interest in Regional and Urban Economics. My research focuses on microeconometric analyses, using causal evaluation strategies to explore how spatial factors shape economic outcomes and provide empirical insights that can inform evidence-based decision-making.
 
 My current work covers several research areas, including:
 
