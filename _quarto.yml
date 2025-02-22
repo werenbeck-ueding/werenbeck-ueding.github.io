@@ -35,5 +35,5 @@ format:
     #toc: true
     fontsize: 12pt
 
-
-
+execute:
+  freeze: auto
