@@ -2,15 +2,14 @@
 title: "Current Projects"
 ---
 
-**Lost in Translation. Information Frictions in School Track Choice -- Evidence from a Randomized Field Experiment** with [Friederike Hertweck](https://sites.google.com/view/friederikehertweck/){target="_blank"}, [Pia Schilling](https://www.piaschilling.com/home){target="_blank"}, and [Moritz Welz](https://www2.wiwi.rub.de/en/persons/moritz-welz-2/){target="_blank"}
+**Local Childcare Access and the Distribution of Employment**
 
-<details>
-  <summary>Abstract</summary>
-  <p>
-    In this study, we analyze whether linguistic barriers and a lack of knowledge about the German school system hinders immigrant parents from making an informed choice about their children’s school track. As part of a randomized control trial in a large German state in the school year 2024/25, parents of fourth-graders are provided a (multilingual) mobile application containing useful information on track choice. Different versions of the App will be randomly assigned to elementary schools. *AER Registration: AEARCTR-0011821.*
-  </p>
-</details>
-
+<!-- <details> -->
+<!--   <summary>Abstract</summary> -->
+<!--   <p> -->
+<!--     WIP -->
+<!--   </p> -->
+<!-- </details> -->
 
 **Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power** with [Kevin L. Berlet](https://www2.wiwi.rub.de/en/persons/kevin-berlet/){target="_blank"} and [Mirko Titze](https://www.iwh-halle.de/ueber-das-iwh/team/detail/mirko-titze){target="_blank"}
 
@@ -21,15 +20,14 @@ title: "Current Projects"
 <!--   </p> -->
 <!-- </details> -->
 
+**Lost in Translation. Information Frictions in School Track Choice -- Evidence from a Randomized Field Experiment** with [Friederike Hertweck](https://sites.google.com/view/friederikehertweck/){target="_blank"}, [Pia Schilling](https://www.piaschilling.com/home){target="_blank"}, and [Moritz Welz](https://www2.wiwi.rub.de/en/persons/moritz-welz-2/){target="_blank"}
 
-**Local Childcare Access and the Distribution of Employment**
-
-<!-- <details> -->
-<!--   <summary>Abstract</summary> -->
-<!--   <p> -->
-<!--     WIP -->
-<!--   </p> -->
-<!-- </details> -->
+<details>
+  <summary>Abstract</summary>
+  <p>
+    In this study, we analyze whether linguistic barriers and a lack of knowledge about the German school system hinders immigrant parents from making an informed choice about their children’s school track. As part of a randomized control trial in a large German state in the school year 2024/25, parents of fourth-graders are provided a (multilingual) mobile application containing useful information on track choice. Different versions of the App will be randomly assigned to elementary schools. *AER Registration: AEARCTR-0011821.*
+  </p>
+</details>
 
 
 **Heterogeneous Trends in Apartment Rental Prices** with [Maike Metz-Peeters](https://www2.wiwi.rub.de/en/persons/maike-metz-peeters/){target="_blank"}
