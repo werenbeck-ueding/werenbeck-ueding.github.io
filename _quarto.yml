@@ -6,17 +6,18 @@ website:
   search: false
   navbar:
     left:
-      - href: about.qmd
+      - href: index.qmd
         text: About
       - href: research.qmd
         text: Research
       - href: assets/cv.pdf
         text: CV
+        target: "_blank"
     right: 
       - icon: envelope
         href: mailto:sven.werenbeck-ueding@rub.de
       - icon: github
-        href: https://github.com/Solaire-patch
+        href: https://github.com/werenbeck-ueding
       - icon: linkedin
         href: https://linkedin.com/in/sven-werenbeck-ueding
   page-footer: 
@@ -28,7 +29,7 @@ format:
     theme: cosmo
     css: styles.css
     #toc: true
-    fontsize: 16pt
+    fontsize: 12pt
 
 
 

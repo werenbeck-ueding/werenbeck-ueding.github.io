@@ -4,7 +4,7 @@ title: "Research"
 
 ## Work in Progress
 
-**Lost in Translation. Information Frictions in School Track Choice -- Evidence from a Randomized Field Experiment** with [Friederike Hertweck](https://sites.google.com/view/friederikehertweck/), [Pia Schilling](https://www.piaschilling.com/home), and [Moritz Welz](https://www2.wiwi.rub.de/en/persons/moritz-welz-2/)
+**Lost in Translation. Information Frictions in School Track Choice -- Evidence from a Randomized Field Experiment** with [Friederike Hertweck](https://sites.google.com/view/friederikehertweck/){target="_blank"}, [Pia Schilling](https://www.piaschilling.com/home){target="_blank"}, and [Moritz Welz](https://www2.wiwi.rub.de/en/persons/moritz-welz-2/){target="_blank"}
 
 <details>
   <summary>Abstract</summary>
@@ -14,7 +14,7 @@ title: "Research"
 </details>
 
 
-**Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power** with [Kevin L. Berlet](https://www2.wiwi.rub.de/en/persons/kevin-berlet/) and [Mirko Titze]()
+**Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power** with [Kevin L. Berlet](https://www2.wiwi.rub.de/en/persons/kevin-berlet/){target="_blank"} and [Mirko Titze](https://www.iwh-halle.de/ueber-das-iwh/team/detail/mirko-titze){target="_blank"}
 
 <details>
   <summary>Abstract</summary>
@@ -34,7 +34,7 @@ title: "Research"
 </details>
 
 
-**Heterogeneous Trends in Apartment Rental Prices** with [Maike Metz-Peeters](https://www2.wiwi.rub.de/en/persons/maike-metz-peeters/)
+**Heterogeneous Trends in Apartment Rental Prices** with [Maike Metz-Peeters](https://www2.wiwi.rub.de/en/persons/maike-metz-peeters/){target="_blank"}
 
 <details>
   <summary>Abstract</summary>
