@@ -6,7 +6,7 @@ title: "Welcome to my homepage!"
 
 ::: {.g-col-4}
 
-*Image here*
+![](assets/picture.jpg)
 
 :::
 
