@@ -22,6 +22,7 @@ format:
         \setlength{\othercolumn}{13cm}
         \usepackage{fancyhdr}
         %\setlength{\headheight}{2.5cm}
+        \usepackage{fontawesome5}
 ---
 
 \pagestyle{fancy}
@@ -35,34 +36,38 @@ format:
 Last updated: \today
 }
 
-Ruhr-University Bochum\newline
-Faculty of Management & Economics\newline
-Universitätsstraße 150\newline
-44801 Bochum, Germany
+\begin{tabular}{ll}
 
-Mail: \href{mailto:sven.werenbeck-ueding@ruhr-uni-bochum.de}{sven.werenbeck-ueding@ruhr-uni-bochum.de}\newline
-Tel.: +49 (0) 234 32-27523\newline
-Web: \href{https://werenbeck-ueding.github.io/}{https://werenbeck-ueding.github.io/}
+\faAddressBook[regular] & Ruhr-University Bochum\\
+& Faculty of Management \& Economics\\
+& Universitätsstraße 150\\
+& D-44801 Bochum, Germany\\
 
+\faEnvelope[regular] & \href{mailto:sven.werenbeck-ueding@ruhr-uni-bochum.de}{sven.werenbeck-ueding@ruhr-uni-bochum.de}\\
+\faPhone & +49 (0) 234 32-27523\\
+\faGlobe & \href{https://werenbeck-ueding.github.io/}{https://werenbeck-ueding.github.io/}\\
 
-## Resarch Interests
-
-\begin{tabular}{p{\datecolumn}p{\othercolumn}}
-   & \textbf{Applied Microeconometrics, Spatial Economics, Education Economics}\\
 \end{tabular}
 
 
-## Employment
+<!-- ## Resarch Interests -->
+
+<!-- \begin{tabular}{p{\datecolumn}p{\othercolumn}} -->
+<!--    & \textbf{Applied Microeconometrics, Spatial Economics, Education Economics}\\ -->
+<!-- \end{tabular} -->
+
+
+## Academic Employment
 
 <!--Positions & Affiliations-->
 
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
   Since 10/2021 & \textit{Research Assistant}, Chair of Empirical Economics, Ruhr-University Bochum\\
-  11/2021 -- 12/2024 & \textit{Product Owner (freelance)}\\
-  01/2021 -- 09/2021 & \textit{Student Assistant}, adesso SE, Dortmund\\
+  %11/2021 -- 12/2024 & \textit{Product Owner (freelance)}\\
+  %01/2021 -- 09/2021 & \textit{Student Assistant}, adesso SE, Dortmund\\
   10/2019 -- 06/2020 & \textit{Student Assistant}, Chair of Statistics / Econometrics, Ruhr-University Bochum\\
-  02/2018 -- 09/2018 & \textit{Voluntary Military Service}\\
-  10/2015 -- 03/2016 & \textit{Student Assistant}, GFKL Financial Services AG, Essen 
+  %02/2018 -- 09/2018 & \textit{Voluntary Military Service}\\
+  %10/2015 -- 03/2016 & \textit{Student Assistant}, GFKL Financial Services AG, Essen 
 \end{tabular}
 
 
