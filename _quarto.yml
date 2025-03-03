@@ -22,8 +22,10 @@ website:
         href: mailto:sven.werenbeck-ueding@ruhr-uni-bochum.de
       - icon: github
         href: https://github.com/werenbeck-ueding
+        target: "_blank"
       - icon: linkedin
         href: https://linkedin.com/in/sven-werenbeck-ueding
+        target: "_blank"
   page-footer: 
     left: "Copyright 2025, Sven Werenbeck-Ueding"
     right: "This website was created using [Quarto](https://quarto.org/)"
