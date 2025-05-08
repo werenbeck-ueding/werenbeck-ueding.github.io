@@ -57,17 +57,17 @@ Last updated: \today
 <!-- \end{tabular} -->
 
 
-## Academic Employment
+## Employment
 
 <!--Positions & Affiliations-->
 
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
   Since 10/2021 & \textit{Research Assistant}, Chair of Empirical Economics at Ruhr University Bochum\\
-  %11/2021 -- 12/2024 & \textit{Product Owner (freelance)}\\
-  %01/2021 -- 09/2021 & \textit{Student Assistant}, adesso SE, Dortmund\\
+  11/2021 -- 12/2024 & \textit{Product Owner} (self-employed, client: adesso SE), Witten\\
+  01/2021 -- 09/2021 & \textit{Student Assistant} in Software Development (Business Analysis \& Product Ownership, LoB Banking), adesso SE, Dortmund\\
   10/2019 -- 06/2020 & \textit{Student Assistant}, Chair of Statistics / Econometrics at Ruhr University Bochum\\
-  %02/2018 -- 09/2018 & \textit{Voluntary Military Service}\\
-  %10/2015 -- 03/2016 & \textit{Student Assistant}, GFKL Financial Services AG, Essen 
+  02/2018 -- 09/2018 & \textit{Military Service}, Mountain Engineer Battalion 8, Ingolstadt\\
+  10/2015 -- 03/2016 & \textit{Student Assistant}, GFKL Financial Services AG, Essen 
 \end{tabular}
 
 
@@ -113,11 +113,16 @@ Last updated: \today
 ## Teaching Experience
 
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
-  2025 & Tutorial ``Introduction to Microeconometrics" (Master)\\
-  2024 & Seminars ``Empirical Economics" (Bachelor) and ``Economics of Migration" (Master) and Lecture ``Data Analysis Using R", Ruhr University Bochum\\
-  2023 & Tutorial ``Labor Economics" (Master) and Lecture ``Data Analysis Using R" (Master), Ruhr University Bochum\\
-  2021 -- 2022 & Tutorials ``Applied Empirical Economics" (Bachelor) and ``Labor Economics" (Master), Ruhr University Bochum\\
-  2019 -- 2020 & Tutorial ``Statistics II" (Bachelor), Ruhr University Bochum
+\multicolumn{2}{l}{Ruhr University Bochum:} \\
+2025         & Tutorial ``Introduction to Microeconometrics'' (Master) \\
+2024         & Seminar ``Empirical Economics'' (Bachelor) \\
+             & Seminar ``Economics of Migration'' (Master) \\
+             & Lecture ``Data Analysis Using R'' (Master) \\
+2023         & Tutorial ``Labor Economics'' (Master) \\
+             & Lecture ``Data Analysis Using R'' (Master) \\
+2021--2022   & Tutorial ``Applied Empirical Economics'' (Bachelor) \\
+             & Tutorial ``Labor Economics'' (Master) \\
+2019--2020   & Tutorial ``Statistics II'' (Bachelor) \\
 \end{tabular}
 
 
@@ -131,7 +136,7 @@ Last updated: \today
 ## Technical Skills
 
 \begin{tabular}{p{\datecolumn}p{\othercolumn}}
-   & \textbf{Statistical Software:} R (proficient)\\%, Python (basic), Stata (basic)\\
-   & \textbf{Typewriting:} Quarto, \LaTeX\\
-   & \textbf{Other:} Git
+   \textbf{Programming:} & R (proficient), Python (basic), Stata (basic)\\
+   \textbf{Typewriting:} & Quarto, \LaTeX\\
+   \textbf{Other:} & Git
 \end{tabular}
