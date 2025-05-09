@@ -3,11 +3,11 @@ author: "Sven Werenbeck-Ueding"
 format: 
   pdf:
     fontsize: 10pt
-    mainfont: "Latin Modern Roman"
-    sansfont: "Latin Modern Roman"
-    monofont: "Latin Modern Mono"
+    # mainfont: "Latin Modern Roman"
+    # sansfont: "Latin Modern Roman"
+    # monofont: "Latin Modern Mono"
     fontfamily: lmodern
-    pdf-engine: xelatex
+    pdf-engine: pdflatex #xelatex
     margin-left: 2.5cm
     margin-right: 2.5cm
     margin-top: 2.5cm
@@ -28,6 +28,7 @@ format:
         \usepackage{fancyhdr}
         %\setlength{\headheight}{2.5cm}
         \usepackage{fontawesome5}
+        \renewcommand{\sfdefault}{lmr} % Use Latin Modern Roman as sans-serif (for subsections)
 ---
 
 \pagestyle{fancy}
