@@ -3,6 +3,11 @@ author: "Sven Werenbeck-Ueding"
 format: 
   pdf:
     fontsize: 10pt
+    mainfont: "Latin Modern Roman"
+    sansfont: "Latin Modern Roman"
+    monofont: "Latin Modern Mono"
+    fontfamily: lmodern
+    pdf-engine: xelatex
     margin-left: 2.5cm
     margin-right: 2.5cm
     margin-top: 2.5cm
@@ -41,9 +46,10 @@ Last updated: \today
 \faAddressBook[regular] & Ruhr University Bochum\\
 & Faculty of Management \& Economics\\
 & Universitätsstraße 150\\
-& D-44801 Bochum, Germany\\
+& D-44801 Bochum\\
+& Germany\\
 
-\faEnvelope[regular] & \href{mailto:sven.werenbeck-ueding@ruhr-uni-bochum.de}{sven.werenbeck-ueding@ruhr-uni-bochum.de}\\
+\faEnvelope[regular] & \href{mailto:sven.werenbeck-ueding@ruhr-uni-bochum.de}{sven.werenbeck-ueding@rub.de}\\
 \faPhone & +49 (0) 234 32-27523\\
 \faGlobe & \href{https://werenbeck-ueding.github.io/}{https://werenbeck-ueding.github.io/}\\
 
@@ -62,12 +68,12 @@ Last updated: \today
 <!--Positions & Affiliations-->
 
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
-  Since 10/2021 & \textit{Research Assistant}, Chair of Empirical Economics at Ruhr University Bochum\\
-  11/2021 -- 12/2024 & \textit{Product Owner} (self-employed, client: adesso SE), Witten\\
-  01/2021 -- 09/2021 & \textit{Student Assistant} in Software Development (Business Analysis \& Product Ownership, LoB Banking), adesso SE, Dortmund\\
-  10/2019 -- 06/2020 & \textit{Student Assistant}, Chair of Statistics / Econometrics at Ruhr University Bochum\\
-  02/2018 -- 09/2018 & \textit{Military Service}, Mountain Engineer Battalion 8, Ingolstadt\\
-  10/2015 -- 03/2016 & \textit{Student Assistant}, GFKL Financial Services AG, Essen 
+  Since 10/2021 & \textit{Research Assistant}, Chair of Empirical Economics, Ruhr University Bochum \\
+  11/2021 -- 12/2024 & \textit{External Consultant / Product Owner} (self-employed; client: adesso SE) \\
+  01/2021 -- 09/2021 & \textit{Student Assistant} (Business Analysis in Software Development; Line of Business: Banking), adesso SE, Dortmund \\
+  10/2019 -- 06/2020 & \textit{Student Assistant}, Chair of Statistics / Econometrics, Ruhr University Bochum \\
+  02/2018 -- 09/2018 & \textit{Military Service}, Mountain Engineer Battalion 8, Ingolstadt \\
+  10/2015 -- 03/2016 & \textit{Student Assistant} (Tax Department), GFKL Financial Services AG, Essen \\
 \end{tabular}
 
 
@@ -92,6 +98,10 @@ Last updated: \today
 
 ## Research
 
+\textbf{Working Paper:}
+
+\textit{``Heterogeneous Trends in Apartment Rental Prices"} (with Maike Metz-Peeters). 2025. \textit{Ruhr Economic Papers}, 1156.
+
 \textbf{Work in Progress:}
 
 \textit{``Local Childcare Access and Local Employment"}
@@ -99,8 +109,6 @@ Last updated: \today
 \textit{``Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power"} (with Kevin L. Berlet and Mirko Titze)
 
 \textit{``Lost in Translation. Information Frictions in School Track Choice -- Evidence from a Randomized Field Experiment"} (with Friederike Hertweck, Pia Schilling, and Moritz Welz). AER Registration: AEARCTR-0011821.
-
-\textit{``Heterogeneous Trends in Apartment Rental Prices"} (with Maike Metz-Peeters)
 
 
 ## Conferences & Presentations
@@ -114,15 +122,15 @@ Last updated: \today
 
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
 \multicolumn{2}{l}{Ruhr University Bochum:} \\
-2025         & Tutorial ``Introduction to Microeconometrics'' (Master) \\
-2024         & Seminar ``Empirical Economics'' (Bachelor) \\
-             & Seminar ``Economics of Migration'' (Master) \\
-             & Lecture ``Data Analysis Using R'' (Master) \\
-2023         & Tutorial ``Labor Economics'' (Master) \\
-             & Lecture ``Data Analysis Using R'' (Master) \\
-2021--2022   & Tutorial ``Applied Empirical Economics'' (Bachelor) \\
-             & Tutorial ``Labor Economics'' (Master) \\
-2019--2020   & Tutorial ``Statistics II'' (Bachelor) \\
+2025            & Tutorial ``Introduction to Microeconometrics'' (Master) \\
+2024            & Seminar ``Empirical Economics'' (Bachelor) \\
+                & Seminar ``Economics of Migration'' (Master) \\
+                & Lecture ``Data Analysis Using R'' (Master) \\
+2023            & Tutorial ``Labor Economics'' (Master) \\
+                & Lecture ``Data Analysis Using R'' (Master) \\
+2021 -- 2022    & Tutorial ``Applied Empirical Economics'' (Bachelor) \\
+                & Tutorial ``Labor Economics'' (Master) \\
+2019 -- 2020    & Tutorial ``Statistics II'' (Bachelor) \\
 \end{tabular}
 
 
