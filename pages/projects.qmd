@@ -4,12 +4,12 @@ title: "Current Projects"
 
 **Local Childcare Access and Local Employment**
 
-<!-- <details> -->
-<!--   <summary>Abstract</summary> -->
-<!--   <p> -->
-<!--     WIP -->
-<!--   </p> -->
-<!-- </details> -->
+<details>
+  <summary>Abstract</summary>
+  <p>
+    Access to childcare reduces time constraints and caregiving burdens, enabling a broader labor force participation. While the existing literature finds that increasing access to childcare services can increase employment, little is known about how the spatial distribution of childcare services within regions affects local employment. This paper studies a large-scale expansion of the early-childcare infrastructure in North Rhine-Westphalia, Germany, between 2012 and 2022, and examines how variation in geographical access to childcare services affects local labor markets. Using administrative data on all daycare centers in North Rhine-Westphalia, I construct a gravity-based measure of local childcare access at the square-kilometer level. Exploiting institutional planning rules that tie slot expansions to demographic needs, I use a shift-share instrument to identify supply-side variation in access, independent of demand-driven policy targeting or parental sorting. Preliminary results show that increases in childcare access significantly reduce local unemployment and raise per-household purchasing power. These findings imply that not only the magnitude but also the spatial allocation of childcare investments matters, highlighting the importance of spatial targeting in childcare policy.
+  </p>
+</details>
 
 **Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power** with [Kevin L. Berlet](https://www2.wiwi.rub.de/en/persons/kevin-berlet/){target="_blank"} and [Mirko Titze](https://www.iwh-halle.de/ueber-das-iwh/team/detail/mirko-titze){target="_blank"}
 
