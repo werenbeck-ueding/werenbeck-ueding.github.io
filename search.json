@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my homepage!",
-    "section": "",
-    "text": "I am a Research Assistant at the Chair of Empirical Economics at Ruhr University Bochum, with a strong interest in Regional and Urban Economics. My research focuses on microeconometric analyses, using causal evaluation strategies to explore how spatial factors shape economic outcomes and provide empirical insights that can inform evidence-based decision-making.\nMy current work covers several research areas, including:\n\nHow the spatial distribution of early childcare affects inner-regional employment patterns\nThe potentially competition-distorting effects of regional firm subsidies\nHow reducing information barriers affects parental school track choices in primary education\n\nIf you’re interested in my research or have any questions, feel free to reach out!"
-  },
-  {
     "objectID": "pages/publications.html",
     "href": "pages/publications.html",
     "title": "Publications & Working Papers",
@@ -19,6 +12,13 @@
     "title": "Publications & Working Papers",
     "section": "",
     "text": "Heterogeneous Trends in Apartment Rental Prices with Maike Metz-Peeters. 2025. Ruhr Economic Papers, 1156.\n\n\nAbstract\n\n\nWe introduce a novel, non-parametric method for estimating house price indices that captures heterogeneous price developments and operates independently of strict functional form assumptions. Utilizing the potential outcomes framework, our approach employs causal forests to effectively address changes in the composition of available housing units while mitigating the curse of dimensionality inherent in traditional matching estimators. By directly incorporating geographical coordinates into the model, the algorithm autonomously determines the adaptive spatial neighborhood for each observation, thus avoiding the imposition of fixed spatial boundaries. This flexibility makes the method particularly well-suited for densely populated areas and enables the investigation of complex heterogeneity in house price developments. We demonstrate the utility of this approach through an application to apartment rental prices in six major German cities before and during the COVID-19 pandemic, illustrating how it uncovers nuanced trends in rental price dynamics during a period of significant market change."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my homepage!",
+    "section": "",
+    "text": "I am a Research Assistant at the Chair of Empirical Economics at Ruhr University Bochum, with a strong interest in Regional and Urban Economics. My research focuses on microeconometric analyses, using causal evaluation strategies to explore how spatial factors shape economic outcomes and provide empirical insights that can inform evidence-based decision-making.\nMy current work covers several research areas, including:\n\nHow the spatial distribution of early childcare affects inner-regional employment patterns\nThe potentially competition-distorting effects of regional firm subsidies\nHow reducing information barriers affects parental school track choices in primary education\n\nIf you’re interested in my research or have any questions, feel free to reach out!"
   },
   {
     "objectID": "pages/projects.html",
