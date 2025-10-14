@@ -115,7 +115,9 @@ Last updated: \today
 ## Conferences & Presentations
 
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
-  2022 & 61st ERSA Conference
+2025            & 2025 Summer School in Urban Economics\\
+                & 19th North American Meeting of the Urban Economics Association\\
+2022            & 61st ERSA Conference
 \end{tabular}
 
 
@@ -124,6 +126,7 @@ Last updated: \today
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
 \multicolumn{2}{l}{Ruhr University Bochum:} \\
 2025            & Tutorial ``Introduction to Microeconometrics'' (Master) \\
+                & Lecture ``Data Analysis Using R'' (Master) \\
 2024            & Seminar ``Empirical Economics'' (Bachelor) \\
                 & Seminar ``Economics of Migration'' (Master) \\
                 & Lecture ``Data Analysis Using R'' (Master) \\
