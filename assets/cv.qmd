@@ -107,7 +107,7 @@ Last updated: \today
 
 \textit{``Public Childcare as a Local Amenity -- Evidence from Housing Markets"}
 
-\textit{``Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power"} (with Kevin L. Berlet and Mirko Titze)
+\textit{``Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power"} (with Kevin L. Berlet)
 
 \textit{``Lost in Translation. Information Frictions in School Track Choice -- Evidence from a Randomized Field Experiment"} (with Friederike Hertweck, Pia Schilling, and Moritz Welz). AER Registration: AEARCTR-0011821.
 
@@ -115,7 +115,10 @@ Last updated: \today
 ## Conferences & Presentations
 
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
-  2022 & 61st ERSA Conference
+2026            & 19th RGS Doctoral Conference\\
+2025            & 2025 Summer School in Urban Economics\\
+                & 19th North American Meeting of the Urban Economics Association\\
+2022            & 61st ERSA Conference
 \end{tabular}
 
 
@@ -123,7 +126,7 @@ Last updated: \today
 
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
 \multicolumn{2}{l}{Ruhr University Bochum:} \\
-2025 -- 2026      & Tutorial ``Introduction to Microeconometrics'' (Master) \\
+2025 -- 2026    & Tutorial ``Introduction to Microeconometrics'' (Master) \\
                 & Lecture ``Data Analysis Using R'' (Master) \\
 2024            & Seminar ``Empirical Economics'' (Bachelor) \\
                 & Seminar ``Economics of Migration'' (Master) \\
