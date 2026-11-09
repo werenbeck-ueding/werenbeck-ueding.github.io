@@ -83,7 +83,7 @@ Last updated: \today
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
   \textit{Ongoing} & \textit{PhD} in Management \& Economics, Ruhr University Bochum\\
   & Supervisor: Prof. Dr. Thomas K. Bauer (Ruhr University Bochum, RWI, IZA)\\
-  & Co-Supervisor: Prof. Dr. Dr. h.c. Christoph M. Schmidt (Ruhr University Bochum, RWI)\\
+  & Co-Supervisor: Prof. Dr. Dr. h.c. Christoph M. Schmidt (Ruhr University Bochum, Leibniz Association, RWI)\\
   10/2018 -- 10/2021 & \textit{Master of Science} in Management \& Economics, Ruhr University Bochum\\
   10/2014 -- 09/2017 & \textit{Bachelor of Science} in Management \& Economics, Ruhr University Bochum\\
   %08/2006 -- 06/2014 & \textit{Abitur}, Annette-von-Droste-Hülfshoff Gymnasium Dülmen
@@ -105,7 +105,7 @@ Last updated: \today
 
 \textbf{Work in Progress:}
 
-\textit{``Local Childcare Access and Local Employment"}
+\textit{``Public Childcare as a Local Amenity -- Evidence from Housing Markets"}
 
 \textit{``Unintended Consequences? The Effects of a Place-based Policy on Firm Market Power"} (with Kevin L. Berlet and Mirko Titze)
 
@@ -123,7 +123,8 @@ Last updated: \today
 
 \begin{tabular}{p{\datecolumn}|p{\othercolumn}}
 \multicolumn{2}{l}{Ruhr University Bochum:} \\
-2025            & Tutorial ``Introduction to Microeconometrics'' (Master) \\
+2025 -- 2026      & Tutorial ``Introduction to Microeconometrics'' (Master) \\
+                & Lecture ``Data Analysis Using R'' (Master) \\
 2024            & Seminar ``Empirical Economics'' (Bachelor) \\
                 & Seminar ``Economics of Migration'' (Master) \\
                 & Lecture ``Data Analysis Using R'' (Master) \\
@@ -142,10 +143,10 @@ Last updated: \today
 \end{tabular}
 
 
-## Technical Skills
+<!-- ## Technical Skills -->
 
-\begin{tabular}{p{\datecolumn}p{\othercolumn}}
-   \textbf{Programming:} & R (proficient), Python (basic), Stata (basic)\\
-   \textbf{Typewriting:} & Quarto, \LaTeX\\
-   \textbf{Other:} & Git
-\end{tabular}
+<!-- \begin{tabular}{p{\datecolumn}p{\othercolumn}} -->
+<!--    \textbf{Programming:} & R (proficient), Python (basic), Stata (basic)\\ -->
+<!--    \textbf{Typewriting:} & Quarto, \LaTeX\\ -->
+<!--    \textbf{Other:} & Git -->
+<!-- \end{tabular} -->
